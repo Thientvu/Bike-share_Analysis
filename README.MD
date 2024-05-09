@@ -5,7 +5,7 @@ This case study aims to analyze the usage patterns of Cyclistic's bike-share sys
 
 #### Data and Tools
 - **Data Source**: Structured dataset from Divvy Bikes spanning 12 months of 2022, hosted on Amazon AWS S3, containing details such as ride types, start and end times, and station information.
-- **Technologies Used**: Python (pandas, numpy, seaborn, matplotlib), Tableau for visualization, and SQL for data management.
+- **Technologies Used**: Python (pandas, numpy, seaborn, matplotlib), Tableau for visualization, and SQLite for data management.
 - **Data Integrity**: The dataset required significant cleaning due to issues like missing values and inaccurate timestamps, which was handled using Python.
 
 #### Key Insights
