@@ -23,7 +23,6 @@ The findings challenge some existing assumptions about member usage and highligh
 
 #### Repository Contents
 - **Analysis Notebooks**: Python scripts used for data cleaning, analysis, and visualizations.
-- **Data Files**: Links to the raw and cleaned datasets.
 
 #### How to Use This Repository
 Clone or download the repository to access the Python notebooks and datasets, and replicate or extend the analysis.
